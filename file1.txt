@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 krishna is nice not waste
+=======
+krishna is nice one 
+>>>>>>> origin/master
